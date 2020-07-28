@@ -1,0 +1,37 @@
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Farmacia_Final.exe
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Farmacia_Final.pdb
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Farmacia_Final.exe.config
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.pdb
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.Interface.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTest.TestAdapter.resources.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.MSTestAdapter.PlatformServices.resources.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\es\Microsoft.VisualStudio.TestPlatform.TestFramework.resources.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\UnitTestProject1.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\UnitTestProject1.pdb
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Farmacia_Final.exe
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Farmacia_Final.pdb
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Farmacia_Final.exe.config
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.xml
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\bin\Debug\Microsoft.VisualStudio.TestPlatform.TestFramework.Extensions.xml
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.csprojAssemblyReference.cache
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CoreCompileInputs.cache
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.csproj.CopyComplete
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.dll
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\UnitTestProject1\obj\Debug\UnitTestProject1.pdb

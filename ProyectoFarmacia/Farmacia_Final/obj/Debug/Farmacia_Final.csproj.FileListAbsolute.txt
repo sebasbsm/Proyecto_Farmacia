@@ -1,0 +1,146 @@
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Form1.resources
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+C:\Users\Alex\source\repos\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+C:\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+C:\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+C:\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Form1.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Form2.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Principal.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Clientes.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Productos.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Eliminar_Cuentas.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.LoginDeConfirmacion.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Stocks.resources
+C:\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Servicios_Realizados.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Clientes.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Eliminar_Cuentas.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Form1.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Form2.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.LoginDeConfirmacion.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Stocks.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Principal.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Productos.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.Servicios_Realizados.resources
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+C:\Users\POOL\Desktop\Farmacia_Final\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+C:\Users\POOL\Desktop\123\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+C:\Users\POOL\Desktop\123\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+C:\Users\POOL\Desktop\123\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Clientes.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Eliminar_Cuentas.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Form1.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Form2.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.LoginDeConfirmacion.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Stocks.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Principal.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Productos.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.Servicios_Realizados.resources
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+C:\Users\POOL\Desktop\123\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Clientes.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Eliminar_Cuentas.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Form1.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Form2.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.LoginDeConfirmacion.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.ModificarPrecios.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Stocks.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Principal.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Productos.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Servicios_Realizados.resources
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+E:\JeanPaul\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Clientes.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Eliminar_Cuentas.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Form1.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Form2.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.LoginDeConfirmacion.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.ModificarPrecios.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Stocks.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Principal.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Productos.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Servicios_Realizados.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Ventas.resources
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+C:\Users\POOL\Desktop\ProyectoUltimo\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Clientes.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Eliminar_Cuentas.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Farmaceuticos.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Form2.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.LoginDeConfirmacion.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.ModificarPrecios.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Stocks.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Principal.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Productos.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Servicios_Realizados.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Ventas.resources
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+F:\ANDREI\Documents\Extraíbles\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.registroServicio.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe.config
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.exe
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\bin\Debug\Farmacia_Final.pdb
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csprojAssemblyReference.cache
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Clientes.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Eliminar_Cuentas.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Farmaceuticos.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Form2.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.LoginDeConfirmacion.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.ModificarPrecios.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Stocks.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Principal.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Productos.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Properties.Resources.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.registroServicio.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Servicios_Realizados.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Ventas.resources
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.GenerateResource.cache
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.csproj.CoreCompileInputs.cache
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.exe
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.pdb
+D:\FINAL CONSTRUCCION\El mejor proyecto de farmacia\ProyectoUltimo\ProyectoFarmacia\Farmacia_Final\obj\Debug\Farmacia_Final.Mostrar_Vencidos.resources
